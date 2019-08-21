@@ -1,4 +1,6 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Node"
-    id="5a8af3e8-d296-458d-8147-d8434f485a7a"/>
+    name="Node base"
+    id="5a8af3e8-d296-458d-8147-d8434f485a7a">
+  <properties/>
+</archimate:Node>
