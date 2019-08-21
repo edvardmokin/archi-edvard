@@ -1,0 +1,42 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Project 1"
+    id="c697b8aa-93bc-400c-9621-7e6d44a70ed6">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="5b910b12-6dfc-46f9-90cb-df4788820c69">
+    <bounds
+        x="96"
+        y="214"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Product"
+        href="Product_76e3a72c-3e0d-45cb-a967-a86cff08e3e6.xml#76e3a72c-3e0d-45cb-a967-a86cff08e3e6"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="56beea3d-b9f3-42e5-b07a-c02bf963d72b">
+    <bounds
+        x="228"
+        y="339"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationInteraction"
+        href="ApplicationInteraction_c7bf9692-1b84-4022-875b-cc1b9b8af186.xml#c7bf9692-1b84-4022-875b-cc1b9b8af186"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="f1027295-ffd1-4add-bbfa-1e8d2c552ae9">
+    <bounds
+        x="221"
+        y="315"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Artifact"
+        href="Artifact_f77f3786-2cd6-439c-9f62-e21e4a04723c.xml#f77f3786-2cd6-439c-9f62-e21e4a04723c"/>
+  </children>
+</archimate:ArchimateDiagramModel>

@@ -160,4 +160,16 @@
         xsi:type="archimate:TechnologyInterface"
         href="TechnologyInterface_ea6c8ca2-1a72-4b58-a8e5-9fee36c432f3.xml#ea6c8ca2-1a72-4b58-a8e5-9fee36c432f3"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="de2b7406-d717-409a-82f4-fc1b300e0456">
+    <bounds
+        x="300"
+        y="96"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_e15bb9a8-442a-4f3e-97d2-22619d1dd32f.xml#e15bb9a8-442a-4f3e-97d2-22619d1dd32f"/>
+  </children>
 </archimate:ArchimateDiagramModel>
